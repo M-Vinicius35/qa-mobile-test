@@ -17,7 +17,7 @@ This project simulates the Quality Assurance cycle for a mobile e-commerce appli
 ### 📊 1. QA Metrics Dashboard (Power BI)
 *Demonstrates the ability to track bug severity and testing progress.*
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](Dashboard.png)
 
 > **Key Insight:** 33% of the reported bugs were Critical, requiring immediate attention from the development team before the release.
 
@@ -26,7 +26,7 @@ This project simulates the Quality Assurance cycle for a mobile e-commerce appli
 ### 📋 2. Agile Workflow Management (Jira Simulation)
 *Demonstrates organization using Kanban boards to manage the Bug Lifecycle.*
 
-![Kanban Board](board.png)
+![Kanban Board](Board.png)
 
 * **Workflow:** Backlog → To Do → In Progress → Ready for QA → Done.
 * **Artifacts:** Includes Bug Reports, User Stories, and QA Tasks.
@@ -73,7 +73,7 @@ Este projeto simula o ciclo de Garantia de Qualidade (QA) para um aplicativo de 
 ### 📊 1. Dashboard de Métricas de QA (Power BI)
 *Demonstra a habilidade de monitorar a gravidade dos bugs e o progresso dos testes.*
 
-![Dashboard Power BI](dashboard.png)
+![Dashboard Power BI](Dashboard.png)
 
 > **Destaque:** 33% dos bugs reportados foram classificados como Críticos, exigindo atenção imediata da equipe de desenvolvimento antes do lançamento (release).
 
@@ -82,7 +82,7 @@ Este projeto simula o ciclo de Garantia de Qualidade (QA) para um aplicativo de 
 ### 📋 2. Gestão de Fluxo Ágil (Simulação Jira)
 *Demonstra organização utilizando quadros Kanban para gerenciar o Ciclo de Vida do Bug.*
 
-![Quadro Kanban](board.png)
+![Quadro Kanban](Board.png)
 
 * **Fluxo de Trabalho:** Backlog → A Fazer (To Do) → Em Progresso → Pronto para QA → Concluído (Done).
 * **Artefatos:** Inclui Relatórios de Bugs, Histórias de Usuário e Tarefas de QA.

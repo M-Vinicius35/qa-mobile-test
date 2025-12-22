@@ -23,6 +23,8 @@ This project simulates the Quality Assurance cycle for a mobile e-commerce appli
 
 ---
 
+---
+
 ### 📋 2. Agile Workflow Management (Jira Simulation)
 *Demonstrates organization using Kanban boards to manage the Bug Lifecycle.*
 
@@ -42,6 +44,18 @@ This project simulates the Quality Assurance cycle for a mobile e-commerce appli
 * **Test ID:** TC-002
 * **Scenario:** Validate Checkout flow with 1 item.
 * **Status:** 🔴 FAIL (Critical Crash detected on Android 10).
+
+---
+
+### 🤖 4. Mobile Automation
+This section features a sample automation script developed with **Python** and **Appium** to demonstrate my technical approach to software quality.
+
+* **Objective:** To automate **Regression Testing** on Android devices, ensuring that existing features remain stable after new updates.
+* **Methodology:** The script uses `UiAutomator2` to interact with Android elements, simulating a complete user journey (Login Flow).
+* **Failure Analysis:** In case of errors, the script is designed to capture logs, aiding in the **identification and reproduction of failures** for the development team.
+* **Key Value:** Focused on the lesson that *"Quality is Communication"*, these scripts aim to provide fast and clear feedback to stakeholders.
+
+📂 **[Click here to view the full Script](Automation_Scripts.py)**
 
 ---
 
@@ -98,6 +112,17 @@ Este projeto simula o ciclo de Garantia de Qualidade (QA) para um aplicativo de 
 * **ID do Teste:** TC-002
 * **Cenário:** Validar fluxo de Checkout com 1 item.
 * **Status:** 🔴 FALHA (Crash Crítico detectado no Android 10).
+
+---
+### 🤖 4. Automação Mobile
+Esta seção apresenta um exemplo de script de automação desenvolvido com **Python** e **Appium** para demonstrar minha abordagem técnica em qualidade de software.
+
+* **Objetivo:** Automatizar **Testes de Regressão** em dispositivos Android, garantindo que as funcionalidades existentes permaneçam estáveis após novas atualizações.
+* **Metodologia:** O script utiliza `UiAutomator2` para interagir com elementos Android, simulando uma jornada completa do usuário (Fluxo de Login).
+* **Análise de Falhas:** Em caso de erros, o script é projetado para capturar logs, auxiliando na **identificação e reprodução de falhas** para a equipe de desenvolvimento.
+* **Valor Principal:** Focado no ensinamento de que *"Qualidade é Comunicação"*, esses scripts visam fornecer feedback rápido e claro para as partes interessadas.
+
+📂 **[Clique aqui para ver o Script](Automation_Scripts.py)**
 
 ---
 
